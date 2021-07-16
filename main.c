@@ -1,7 +1,9 @@
+//This is a new change to check Git
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
+#include <conio.h>
 char nam[50];
 int num = 3, alive = 1;
 
